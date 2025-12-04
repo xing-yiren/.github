@@ -12,7 +12,7 @@
 
 # test
 /.github/ @xing-yiren
-/tmp/ @qhzhuang
+/tmp/ @qhzhuang @xing-yiren
 
 # Organization-wide global rules (fallback, 2nd)
 /. @wang-hua-2019 @lvyufeng
